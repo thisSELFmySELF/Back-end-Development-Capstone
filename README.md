@@ -1,4 +1,4 @@
-# Lab
+# Overview of IBM Back-end Application Development Capstone Project
 
 1.  Clone git repo: `git clone https://github.com/ibm-developer-skills-network/sfvih-Back-end-Development-Capstone.git`
 2.  Get into the directory by `cd sfvih-Back-end-Development-Capstone`
